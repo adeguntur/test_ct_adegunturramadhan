@@ -25,7 +25,7 @@ Jika tidak ingin rumit untuk membuat satu-satu configuration per class seperti i
 * Jawaban masing-masing soal terdapat pada module lib
 <img width="351" alt="Screen Shot 2020-04-23 at 03 53 52" src="https://user-images.githubusercontent.com/31888923/80033991-d73c0b80-8517-11ea-9192-f4c6eaef4f72.png">
 
-## Output Soal No 1 - 6
+## Output Soal No 2 - 6
 * Output Soal No 2 pada Class SoalNo2
 <img width="197" alt="Screen Shot 2020-04-23 at 03 54 25" src="https://user-images.githubusercontent.com/31888923/80034089-05215000-8518-11ea-951e-5807642de086.png">
 * Output Soal No 3 pada Class SoalNo3
