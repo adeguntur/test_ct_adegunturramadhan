@@ -17,8 +17,9 @@
 <img width="1070" alt="Screen Shot 2020-04-23 at 04 20 00" src="https://user-images.githubusercontent.com/31888923/80035676-a0b3c000-851a-11ea-89d6-3b09e26dea17.png">
 
 * Notes :
-Jika tidak ingin rumit untuk membuat satu-satu configuration per class seperti ini, maka tinggal ubah saja Main Class pada step ke-3 diatas
 <img width="395" alt="Screen Shot 2020-04-23 at 03 53 05" src="https://user-images.githubusercontent.com/31888923/80035855-ef615a00-851a-11ea-8c0c-e87be92426b0.png">
+Jika tidak ingin rumit untuk membuat satu-satu configuration per class seperti ini, maka tinggal ubah saja Main Class pada step ke-3 diatas
+
 
 ## Struktur Folder Project
 * Jawaban masing-masing soal terdapat pada module lib
