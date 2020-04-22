@@ -8,13 +8,13 @@
 <img width="198" alt="Screen Shot 2020-04-23 at 04 18 52" src="https://user-images.githubusercontent.com/31888923/80035461-49adeb00-851a-11ea-9d8e-33c658ff9bae.png">
 
 * Lalu pilih Main Class sesuai dengan Class yang ingin di Run/Coba
-<img width="1078" alt="Screen Shot 2020-04-23 at 04 19 36" src="https://user-images.githubusercontent.com/31888923/80035501-58949d80-851a-11ea-8534-e35ae7278ab6.png">
+<img width="1067" alt="Screen Shot 2020-04-23 at 04 19 36" src="https://user-images.githubusercontent.com/31888923/80036261-95ad5f80-851b-11ea-87e0-f0e156514822.png">
 
 * Untuk Use classpath of module nya pilih 'lib'
 <img width="720" alt="Screen Shot 2020-04-23 at 04 19 52" src="https://user-images.githubusercontent.com/31888923/80035627-8843a580-851a-11ea-8e2d-039ab38b61d1.png">
 
 * Semua Configurations kurang lebih seperti ini
-<img width="1070" alt="Screen Shot 2020-04-23 at 04 20 00" src="https://user-images.githubusercontent.com/31888923/80035676-a0b3c000-851a-11ea-89d6-3b09e26dea17.png">
+<img width="1070" alt="Screen Shot 2020-04-23 at 04 20 00" src="https://user-images.githubusercontent.com/31888923/80036370-cc837580-851b-11ea-9fa0-6b5ca1249f44.png">
 
 * Notes :
 <img width="395" alt="Screen Shot 2020-04-23 at 03 53 05" src="https://user-images.githubusercontent.com/31888923/80035855-ef615a00-851a-11ea-8c0c-e87be92426b0.png">
