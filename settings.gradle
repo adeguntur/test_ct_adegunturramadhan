@@ -1,0 +1,3 @@
+rootProject.name='test_ct_adegunturramadhan'
+include ':app'
+include ':lib'
